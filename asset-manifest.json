@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/who-is-that-pokemon/static/css/main.1eb0fb1a.chunk.css",
+    "main.css": "/who-is-that-pokemon/static/css/main.103bc7d0.chunk.css",
     "main.js": "/who-is-that-pokemon/static/js/main.903ee74d.chunk.js",
     "main.js.map": "/who-is-that-pokemon/static/js/main.903ee74d.chunk.js.map",
     "runtime-main.js": "/who-is-that-pokemon/static/js/runtime-main.d7ac153e.js",
@@ -8,7 +8,7 @@
     "static/js/2.af8bbb31.chunk.js": "/who-is-that-pokemon/static/js/2.af8bbb31.chunk.js",
     "static/js/2.af8bbb31.chunk.js.map": "/who-is-that-pokemon/static/js/2.af8bbb31.chunk.js.map",
     "index.html": "/who-is-that-pokemon/index.html",
-    "static/css/main.1eb0fb1a.chunk.css.map": "/who-is-that-pokemon/static/css/main.1eb0fb1a.chunk.css.map",
+    "static/css/main.103bc7d0.chunk.css.map": "/who-is-that-pokemon/static/css/main.103bc7d0.chunk.css.map",
     "static/js/2.af8bbb31.chunk.js.LICENSE.txt": "/who-is-that-pokemon/static/js/2.af8bbb31.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/who-is-that-pokemon/static/media/heart.51e9bdbb.svg",
     "static/media/global.scss": "/who-is-that-pokemon/static/media/blue-background.3a499eba.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.d7ac153e.js",
     "static/js/2.af8bbb31.chunk.js",
-    "static/css/main.1eb0fb1a.chunk.css",
+    "static/css/main.103bc7d0.chunk.css",
     "static/js/main.903ee74d.chunk.js"
   ]
 }
